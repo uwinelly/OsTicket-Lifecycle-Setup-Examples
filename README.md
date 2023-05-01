@@ -14,8 +14,8 @@ By using support center system,Cara,Nene and Geila end users created 3 tickets w
 Agents will be able to see live tickets in the aganet panel.Queue Manager will assign priority tickets to the appropriate agents as well as SLAs.
 ![image](https://user-images.githubusercontent.com/129979322/235484597-0bfe0c20-0609-4196-b1de-089322fb72fd.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235485679-39696b75-cddd-4318-b4b3-8ebcb22d338f.png)
-![image](https://user-images.githubusercontent.com/129979322/235485829-51040f14-894a-4785-880e-7775f365c82b.png)
+![image](https://user-images.githubusercontent.com/129979322/235486069-3832b0d2-f0df-4ba2-b75c-fd47400b6069.png)
+![image](https://user-images.githubusercontent.com/129979322/235486128-0fe55ec8-7d89-4b36-8811-793ddde414dc.png)
 
 
 ![image](https://user-images.githubusercontent.com/129979322/235485426-ed6b6afc-e82a-4bfb-adcf-4ed6eed2e0a5.png)
