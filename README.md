@@ -8,6 +8,7 @@ By using support center system,Cara,Nene and Geila end users created 2 tickets w
 ![image](https://user-images.githubusercontent.com/129979322/235480130-eaba9af7-7a97-44c8-adba-35205b3bac9e.png)
 ![image](https://user-images.githubusercontent.com/129979322/235480421-9507cfe8-1cfb-4a50-9cd8-856a99373dea.png)
 ![image](https://user-images.githubusercontent.com/129979322/235482769-018aa47c-c53e-41b3-ac10-83bd9886c2ae.png)
+
 Agents will be able to see live tickets in the agent panel.
 
 ![image](https://user-images.githubusercontent.com/129979322/235479446-11524121-4b52-4be9-a1f5-50923a3cd136.png)
