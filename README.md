@@ -7,6 +7,10 @@ By using support center system,Cara,Nene and Geila end users created 2 tickets w
 ![image](https://user-images.githubusercontent.com/129979322/235478161-792bda28-7911-406e-b12c-6d6f621079f7.png)
 ![image](https://user-images.githubusercontent.com/129979322/235480130-eaba9af7-7a97-44c8-adba-35205b3bac9e.png)
 ![image](https://user-images.githubusercontent.com/129979322/235480421-9507cfe8-1cfb-4a50-9cd8-856a99373dea.png)
+
+We will go ahead and create roles as Admin and distributing them to each Agent on the help deskteam.
+Click to Agents> Add new ROLES> you can name it supreme Admin to be able to assign permissions to others.
+Choose your applicable permissions within the Tickets,tasks and knowldgebase options> saves changes
 ![image](https://user-images.githubusercontent.com/129979322/235482769-018aa47c-c53e-41b3-ac10-83bd9886c2ae.png)
 
 Agents will be able to see live tickets in the agent panel.
