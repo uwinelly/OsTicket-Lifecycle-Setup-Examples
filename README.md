@@ -15,7 +15,7 @@ Agents will be able to see live tickets in the aganet panel.Queue Manager will a
 ![image](https://user-images.githubusercontent.com/129979322/235484597-0bfe0c20-0609-4196-b1de-089322fb72fd.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235486069-3832b0d2-f0df-4ba2-b75c-fd47400b6069.png)
-![image](https://user-images.githubusercontent.com/129979322/235486128-0fe55ec8-7d89-4b36-8811-793ddde414dc.png)
+![image](https://user-images.githubusercontent.com/129979322/235486265-b0e46ac8-9947-45e5-925e-0e1f3ab86bbf.png)
 
 
 ![image](https://user-images.githubusercontent.com/129979322/235485426-ed6b6afc-e82a-4bfb-adcf-4ed6eed2e0a5.png)
