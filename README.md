@@ -19,8 +19,6 @@ Agents will be able to see live tickets in the agent panel.
 
 ![image](https://user-images.githubusercontent.com/129979322/236276683-2f4671a7-747e-42af-84a1-5f5a8a0b01b6.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235479446-11524121-4b52-4be9-a1f5-50923a3cd136.png)
-
 
 
 
