@@ -7,7 +7,7 @@ End users created tickets with the following help topics:
 
 
 ![image](https://user-images.githubusercontent.com/129979322/235478161-792bda28-7911-406e-b12c-6d6f621079f7.png)
-![image](https://user-images.githubusercontent.com/129979322/236280793-7522aa36-706e-4015-a299-887ff811616c.png)
+![image](https://user-images.githubusercontent.com/129979322/236281714-f2478d66-fc25-44e5-bb88-3bab980c5960.png)
 
 And click create.
 
