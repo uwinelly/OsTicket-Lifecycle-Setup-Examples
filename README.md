@@ -6,7 +6,7 @@ End users created tickets with the following help topics:
 * "Business critical outage" Because customers are reporting that they can not access mobile baking,
 
 
-![image](https://user-images.githubusercontent.com/129979322/235478161-792bda28-7911-406e-b12c-6d6f621079f7.png)
+![image](https://user-images.githubusercontent.com/129979322/236282241-3f552656-b4b6-4906-a966-acd0e591dd60.png)
 ![image](https://user-images.githubusercontent.com/129979322/236281714-f2478d66-fc25-44e5-bb88-3bab980c5960.png)
 
 And click create.
