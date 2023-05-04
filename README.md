@@ -11,7 +11,7 @@ End users created tickets with the following help topics:
 
 And click create.
 
-![image](https://user-images.githubusercontent.com/129979322/235482769-018aa47c-c53e-41b3-ac10-83bd9886c2ae.png)
+![image](https://user-images.githubusercontent.com/129979322/236280428-c049a260-a4ec-4015-af4a-d62d22fd580c.png)
 
 Next we are going to login as help desk agent who will be resolving the issue.
 
