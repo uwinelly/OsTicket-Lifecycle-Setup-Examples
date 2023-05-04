@@ -1,6 +1,7 @@
 # osTicket-Lifecycle-setup-examples
 This is a tutorial of the lifecycle of a ticket from intake to resolution.
-By using support center system, end users created tickets with the following help topics:
+By using support center system.Here is the URL= http://localhost/osTicket/  
+End users created tickets with the following help topics:
 
 1."Business critical outage" Because customers are reporting that they can not access mobile baking,
 
