@@ -14,12 +14,11 @@ And click create.
 ![image](https://user-images.githubusercontent.com/129979322/236280428-c049a260-a4ec-4015-af4a-d62d22fd580c.png)
 
 Next we are going to login as help desk agent who will be resolving the issue.
-
-Agents will be able to see live tickets in the agent panel.
+Agent will be able to see live tickets in the agent panel.
 
 ![image](https://user-images.githubusercontent.com/129979322/236276683-2f4671a7-747e-42af-84a1-5f5a8a0b01b6.png)
 
-Queue Manager will assign priority tickets to the appropriate agents as well as SLAs.
+Queue Manager will assign priority to ticket, select the department and assign it to the appropriate agent as well as SLAs.
 
 ![image](https://user-images.githubusercontent.com/129979322/236643538-d3f4ce62-33ae-4c43-b3ea-9c4313c26909.png)
 
@@ -27,7 +26,13 @@ Queue Manager will assign priority tickets to the appropriate agents as well as 
 ![image](https://user-images.githubusercontent.com/129979322/236643754-98b38cc9-cc8d-4e69-88c5-5f9051871456.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/236643807-1d4d01e4-9d21-4313-ac19-b0c8ca3eaec9.png)
+
+At this level the ticket is being resolved and closed.
+
 ![image](https://user-images.githubusercontent.com/129979322/236643863-df5db076-20b1-4338-8f48-4ff39e50f684.png)
+![image](https://user-images.githubusercontent.com/129979322/236644421-d7d8e48a-2c6b-4764-b0e1-017bd1b9a405.png)
+
+
 
 
 
