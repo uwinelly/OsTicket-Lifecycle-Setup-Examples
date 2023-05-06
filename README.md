@@ -6,7 +6,6 @@ End users created tickets with the following help topics:
 
 * "Business critical outage" Because customers are reporting that they can not access mobile baking,
 
-
 ![image](https://user-images.githubusercontent.com/129979322/236282241-3f552656-b4b6-4906-a966-acd0e591dd60.png)
 ![image](https://user-images.githubusercontent.com/129979322/236281714-f2478d66-fc25-44e5-bb88-3bab980c5960.png)
 
@@ -19,12 +18,6 @@ Next we are going to login as help desk agent who will be resolving the issue.
 Agents will be able to see live tickets in the agent panel.
 
 ![image](https://user-images.githubusercontent.com/129979322/236276683-2f4671a7-747e-42af-84a1-5f5a8a0b01b6.png)
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/129979322/235490974-9db607a6-9b38-45c4-a1bf-152ea61957e0.png)
 
 Queue Manager will assign priority tickets to the appropriate agents as well as SLAs.
 
