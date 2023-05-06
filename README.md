@@ -2,7 +2,7 @@
 This is a tutorial of the lifecycle of a ticket from intake to resolution.
 Just practice creating, triaging, and solving tickets.
 We will be using support center system and here is the URL= http://localhost/osTicket/  
-End users created tickets with the following help topics:
+End users created a ticket with the following help topics:
 
 * "Business critical outage" Because customers are reporting that they can not access mobile baking,
 
