@@ -23,7 +23,11 @@ Queue Manager will assign priority tickets to the appropriate agents as well as 
 
 ![image](https://user-images.githubusercontent.com/129979322/236643538-d3f4ce62-33ae-4c43-b3ea-9c4313c26909.png)
 
-![image](https://user-images.githubusercontent.com/129979322/235486069-3832b0d2-f0df-4ba2-b75c-fd47400b6069.png)
+![image](https://user-images.githubusercontent.com/129979322/236643671-24fe63b0-2de4-4a88-a079-07b613f0966f.png)
+![image](https://user-images.githubusercontent.com/129979322/236643754-98b38cc9-cc8d-4e69-88c5-5f9051871456.png)
+
+![image](https://user-images.githubusercontent.com/129979322/236643807-1d4d01e4-9d21-4313-ac19-b0c8ca3eaec9.png)
+![image](https://user-images.githubusercontent.com/129979322/236643863-df5db076-20b1-4338-8f48-4ff39e50f684.png)
 
 
 
