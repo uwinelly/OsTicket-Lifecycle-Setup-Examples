@@ -1,5 +1,6 @@
 # osTicket-Lifecycle-setup-examples
 This is a tutorial of the lifecycle of a ticket from intake to resolution.
+Just practice creating, triaging, and solving tickets.
 We will be using support center system and here is the URL= http://localhost/osTicket/  
 End users created tickets with the following help topics:
 
@@ -21,10 +22,6 @@ Agents will be able to see live tickets in the agent panel.
 
 
 
-
-We will go ahead and create roles as Admin and distributing them to each Agent on the help deskteam.
-Click to Agents> Add new ROLES> you can name it supreme Admin to be able to assign permissions to others.
-Choose your applicable permissions within the Tickets,tasks and knowldgebase options> saves changes
 
 
 ![image](https://user-images.githubusercontent.com/129979322/235490974-9db607a6-9b38-45c4-a1bf-152ea61957e0.png)
