@@ -21,7 +21,7 @@ Agents will be able to see live tickets in the agent panel.
 
 Queue Manager will assign priority tickets to the appropriate agents as well as SLAs.
 
-![image](https://user-images.githubusercontent.com/129979322/235484597-0bfe0c20-0609-4196-b1de-089322fb72fd.png)
+![image](https://user-images.githubusercontent.com/129979322/236643538-d3f4ce62-33ae-4c43-b3ea-9c4313c26909.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/235486069-3832b0d2-f0df-4ba2-b75c-fd47400b6069.png)
 ![image](https://user-images.githubusercontent.com/129979322/235486265-b0e46ac8-9947-45e5-925e-0e1f3ab86bbf.png)
