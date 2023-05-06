@@ -27,9 +27,14 @@ Queue Manager will assign priority to ticket, select the department and assign i
 
 ![image](https://user-images.githubusercontent.com/129979322/236643807-1d4d01e4-9d21-4313-ac19-b0c8ca3eaec9.png)
 
+![image](https://user-images.githubusercontent.com/129979322/236643863-df5db076-20b1-4338-8f48-4ff39e50f684.png)
+
+
 At this level the ticket is being resolved and closed.
 
-![image](https://user-images.githubusercontent.com/129979322/236643863-df5db076-20b1-4338-8f48-4ff39e50f684.png)
+
+![image](https://user-images.githubusercontent.com/129979322/236644510-ce115449-d03d-4f7b-838b-3713b43b7901.png)
+
 ![image](https://user-images.githubusercontent.com/129979322/236644421-d7d8e48a-2c6b-4764-b0e1-017bd1b9a405.png)
 
 
